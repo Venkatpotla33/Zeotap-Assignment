@@ -1,7 +1,7 @@
-
+1. Project Title
  # Data Science Assignment: eCommerce Transactions Dataset
 
-
+2. Description
     ## Description
 This project involves analyzing an eCommerce dataset containing customer, product, and transaction details. 
 The tasks include:
@@ -9,7 +9,7 @@ The tasks include:
 - Building a Lookalike Model
 - Customer Segmentation (Clustering)
 
-
+3. Dataset Details
    ## Dataset
 The project uses the following datasets:
 - **Customers.csv**: Contains customer details (e.g., `CustomerID`, `Region`, `SignupDate`).
