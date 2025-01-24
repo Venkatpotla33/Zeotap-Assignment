@@ -1,6 +1,1 @@
 Business Insights:
-1. Most customers are located in South America region, with 59 customers.
-2. The most purchased product is ActiveWear Smartwatch with 100 units sold.
-3. Total sales show a steady increase over time, indicating a growing customer base.
-4. The region with the highest average transaction value is South America with an average of $721.55.
-5. The product category generating the highest revenue is Books with a total revenue of $192147.47.
