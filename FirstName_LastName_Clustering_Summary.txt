@@ -1,0 +1,4 @@
+Customer Segmentation Results
+Optimal Number of Clusters: 2
+Davies-Bouldin Index: 1.05
+Silhouette Score: 0.35
